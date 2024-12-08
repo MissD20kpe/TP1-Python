@@ -10,7 +10,7 @@ Calculer le factoriel d'un entier prédéfini et Afficher les résultats pour ch
 2. Copier le fichier dans un environnement Python
 3. Executer le fichier:
    '''bash
-   python factoriel.py
+   Exo Factoriel.py
 ### Multiples de 3 et 5 avec affichage de nom+prenom dans des cas
 .Si le nombre est entre 1 et 50 alors:
   -Si un entier est multiple de 3, il affiche votre **nom**.
@@ -27,4 +27,4 @@ Calculer le factoriel d'un entier prédéfini et Afficher les résultats pour ch
 2.Copier le fichier dans un environnement Python
 3. Executer le fichier:
    '''bash
-   python factoriel.py
+   Exo Factoriel.py
